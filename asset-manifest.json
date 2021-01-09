@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/MBW21/static/css/main.d7280711.chunk.css",
+    "main.js": "/MBW21/static/js/main.9e4a6e1a.chunk.js",
+    "main.js.map": "/MBW21/static/js/main.9e4a6e1a.chunk.js.map",
+    "runtime-main.js": "/MBW21/static/js/runtime-main.53fcfd29.js",
+    "runtime-main.js.map": "/MBW21/static/js/runtime-main.53fcfd29.js.map",
+    "static/css/2.f2a53847.chunk.css": "/MBW21/static/css/2.f2a53847.chunk.css",
+    "static/js/2.f7763718.chunk.js": "/MBW21/static/js/2.f7763718.chunk.js",
+    "static/js/2.f7763718.chunk.js.map": "/MBW21/static/js/2.f7763718.chunk.js.map",
+    "static/js/3.f8fea2e2.chunk.js": "/MBW21/static/js/3.f8fea2e2.chunk.js",
+    "static/js/3.f8fea2e2.chunk.js.map": "/MBW21/static/js/3.f8fea2e2.chunk.js.map",
+    "index.html": "/MBW21/index.html",
+    "static/css/2.f2a53847.chunk.css.map": "/MBW21/static/css/2.f2a53847.chunk.css.map",
+    "static/css/main.d7280711.chunk.css.map": "/MBW21/static/css/main.d7280711.chunk.css.map",
+    "static/js/2.f7763718.chunk.js.LICENSE.txt": "/MBW21/static/js/2.f7763718.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MBW21/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/Photo1.aa341efa.png": "/MBW21/static/media/Photo1.aa341efa.png",
+    "static/media/Photo10.c6cf5683.png": "/MBW21/static/media/Photo10.c6cf5683.png",
+    "static/media/Photo2.f8daf307.png": "/MBW21/static/media/Photo2.f8daf307.png",
+    "static/media/Photo3.e292a0f1.png": "/MBW21/static/media/Photo3.e292a0f1.png",
+    "static/media/Photo4.64ad0c64.png": "/MBW21/static/media/Photo4.64ad0c64.png",
+    "static/media/Photo5.97194430.png": "/MBW21/static/media/Photo5.97194430.png",
+    "static/media/Photo6.25b4f318.png": "/MBW21/static/media/Photo6.25b4f318.png",
+    "static/media/Photo7.2e374514.png": "/MBW21/static/media/Photo7.2e374514.png",
+    "static/media/Photo8.500ecd1d.png": "/MBW21/static/media/Photo8.500ecd1d.png",
+    "static/media/Photo9.2be7bd6e.png": "/MBW21/static/media/Photo9.2be7bd6e.png",
+    "static/media/hb.a39e7fdb.mp3": "/MBW21/static/media/hb.a39e7fdb.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53fcfd29.js",
+    "static/css/2.f2a53847.chunk.css",
+    "static/js/2.f7763718.chunk.js",
+    "static/css/main.d7280711.chunk.css",
+    "static/js/main.9e4a6e1a.chunk.js"
+  ]
+}
